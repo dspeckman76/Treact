@@ -1,0 +1,10 @@
+<svg
+                            fill="none"
+                            stroke="rgb(100,21,255)"
+                            stroke-linecap="round"
+                            stroke-linejoin="round"
+                            stroke-width="3"
+                            viewBox="0 0 24 24"
+                          >
+                            <path d="M10 19l-7-7m0 0l7-7m-7 7h18"></path>
+                          </svg>
